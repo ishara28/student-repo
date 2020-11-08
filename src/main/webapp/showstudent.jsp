@@ -1,0 +1,3 @@
+<body>
+	${student.name}
+</body>
